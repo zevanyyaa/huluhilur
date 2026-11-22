@@ -1,0 +1,6 @@
+{
+  "name": "Hulu Guard",
+  "description": "Aplikasi PWA & Android pendeteksi sampah kemasan pendaki berbasis YOLO11 client-side (ONNX Runtime Web) untuk memastikan 100% sampah dibawa turun.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
